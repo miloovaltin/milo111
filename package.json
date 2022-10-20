@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "milo111:toggle"
   },
-  "repository": "https://github.com/atom/milo111",
+  "repository": "https://github.com/miloovaltin/milo111",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
